@@ -1,8 +1,7 @@
-# Shobhit Goswami (3rd year)
+Shobhit Goswami (3rd year)
 I am currently pursuing Bachelor of Technology from ABES Engineering College, Ghaziabad in Information Technology.
 
-## Skills
-```markdown
+Skills
 1. C/C++
 2. HTML/CSS
 3. Java
@@ -10,4 +9,4 @@ I am currently pursuing Bachelor of Technology from ABES Engineering College, Gh
 5. XML
 6. Android Development (Beginner)
 7. Data Structures
-```
+
